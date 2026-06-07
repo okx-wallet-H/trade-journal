@@ -44,3 +44,26 @@ AI 合约交易机器人启动，每60秒决策一次...
 🤚 观望，无持仓
 [14:49:41] BTC: 62077.0 | AI: wait
 🤚 观望，无持仓
+[14:50:42] BTC: 62080.0 | AI: wait
+🤚 观望，无持仓
+[14:51:43] BTC: 62134.5 | AI: wait
+🤚 观望，无持仓
+[14:52:43] BTC: 62088.0 | AI: wait
+🤚 观望，无持仓
+[14:53:45] BTC: 62052.4 | AI: wait
+🤚 观望，无持仓
+[14:54:46] BTC: 62029.3 | AI: wait
+🤚 观望，无持仓
+[14:55:47] BTC: 62020.9 | AI: wait
+🤚 观望，无持仓
+[14:56:48] BTC: 62049.9 | AI: wait
+🤚 观望，无持仓
+[14:57:49] BTC: 62067.0 | AI: wait
+🤚 观望，无持仓
+[14:58:50] BTC: 62123.4 | AI: wait
+🤚 观望，无持仓
+🔹 模拟盘模式 | BTC-USDT 永续合约 | 全仓 | 3x
+⚠️ 杠杆设置: Your account leverage is too low and has insufficient margins. Please increase the leverage. (可能已设置)
+AI 合约交易机器人启动，每60秒决策一次...
+[14:59:32] BTC: 62200.0 | AI: wait
+🤚 观望 | 持仓中 | 浮动盈亏: 38577.00 USDT
